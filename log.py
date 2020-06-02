@@ -17,8 +17,8 @@ def menu():
                 print("")
                 e = getpass('\033[1;92mPassword \033[1;93m: ')
                 print ("")
-                if x=="typeusername" and e=="typepassword":
-                   print('validating..')
+                if x=="user" and e=="pass":
+                   print('validating...')
                    time.sleep(1)
                    os.system('clear')
                    print('')
