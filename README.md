@@ -3,20 +3,19 @@ A simple login script for termux
  [+] Information :
 
    Termux is a Android emulator we can run many kali linux
-   tools in termux (android) so here i am created a small 
-   python script which works as a login form.means it lock
-   your termux app when you are open termux it ask you to
+   tools in termux (android) so here i have created a small 
+   python script which works as a login form.means it will lock
+   your termux app when ever you  open termux it will ask you to
    enter username and password.if you guys enter right 
-   username and password the termux will open means you can
+   username and password the termux will open which means you can
    use termux otherwise if you dont enter user and pass
    this script will close your termux app. so hope you like
-   that .in futere i will make this script more secure/
-   insha allah.
-
+   that .In future i will make this script more secure/
+  
    Termux-Login-v1.2 
 
 [+] warning :- if anybody want to modify this script and want to 
-    upload on own github then you guys make sure to give my original github link on your README.md as a credit..okk
+    upload on your own github then you guys make sure to give my original github link on your README.md as a credit..okk(TechnicalMujeeb)
 
 [+] install and use
   
