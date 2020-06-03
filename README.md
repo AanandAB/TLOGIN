@@ -21,7 +21,7 @@ A simple login script for termux
   
     git clone https://github.com/TechnicalMujeeb/Termux-Login.git
 
-    cd Termux-Login
+    cd TLOGIN
 
     mv README.md log.py /$HOME
 
